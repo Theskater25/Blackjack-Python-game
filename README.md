@@ -1,4 +1,4 @@
-Blackjack 21 🎴
+Blackjack 21 🎴:
 Blackjack 21 est un jeu de cartes développé en Python avec Pygame Zero. Affrontez le croupier et tentez d’atteindre 21 sans dépasser !
 Fonctionnalités:
   -Gestion complète des mains du joueur et du croupier
@@ -9,3 +9,6 @@ Contrôles :
   [ESPACE] : tirer une carte
   [ENTRÉE] : rester
   [R] : nouvelle partie
+  
+Objectif du projet:
+Ce projet m’a permis de pratiquer la programmation en Python, la manipulation de listes et dictionnaires, la gestion d’événements clavier et le développement d’un petit jeu interactif.
