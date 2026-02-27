@@ -1,0 +1,5 @@
+Installation:
+  -Installer Python (n’importe quelle version officielle)
+  -Installer Pygame Zero (pip install pgzero)
+  -Placer le dossier des images (cartes et table) dans le répertoire du jeu
+  -Lancer le jeu avec : pgzrun blackjack.py
